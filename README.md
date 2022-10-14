@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/css-grid-and-flex-used-mobile-first-approach-JplCwsnvu2)
-- Live Site URL: [Add live site URL here](https://four-card-feature-section-master-phi-five.vercel.app/)
+- Solution URL: [https://www.frontendmentor.io/solutions/css-grid-and-flex-used-mobile-first-approach-JplCwsnvu2]
+- Live Site URL: [https://four-card-feature-section-master-phi-five.vercel.app/]
 
 ### Built with
 
